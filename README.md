@@ -10,6 +10,6 @@ Aplikasi ini dibuat sebagai proyek UTS (Ujian Tengah Semester) dari mata kuliah 
 Aplikasi ini dibuat dengan menggunakan bahasa pemrograman Kotlin dan Android View Framework untuk membangun tampilan antarmukanya. Pada rancangan awal, aplikasi ini ditujukan untuk smartphone dengan sistem operasi berbasis android. Terakhir, Android Studio digunakan sebagai IDE untuk proses penulisan, pengembangan, dan pengujian kode program.
 
 ## Developer
-Nama  : Delon Grace Famohouni Nazara  
-NIM   : 221401073  
-Lab   : 4  
+Delon Grace Famohouni Nazara  
+NIM 221401073  
+Lab 4  
