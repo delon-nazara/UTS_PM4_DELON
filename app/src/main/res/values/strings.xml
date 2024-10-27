@@ -1,3 +1,83 @@
 <resources>
     <string name="app_name">ProyekUtsLabPemrogramanMobile</string>
+
+    <!-- C -->
+    <string name="c_name">C</string>
+    <string name="c_creator">Dennis Ritchie</string>
+    <string name="c_year_released">1972</string>
+    <string name="c_file_extension">.c</string>
+    <string name="c_use_cases">System Programming, Embedded Systems, Operating Systems</string>
+    <string name="c_description">C adalah bahasa pemrograman tingkat rendah yang efisien dan banyak digunakan untuk pengembangan sistem, termasuk sistem operasi dan aplikasi yang memerlukan performa tinggi.</string>
+
+    <!-- C++ -->
+    <string name="cpp_name">C++</string>
+    <string name="cpp_creator">Bjarne Stroustrup</string>
+    <string name="cpp_year_released">1985</string>
+    <string name="cpp_file_extension">.cpp</string>
+    <string name="cpp_use_cases">Game Development, System Programming, High-Performance Applications</string>
+    <string name="cpp_description">C++ adalah perluasan dari bahasa C dengan fitur pemrograman berorientasi objek, digunakan dalam pengembangan game, aplikasi yang memerlukan performa tinggi, dan perangkat lunak sistem.</string>
+
+    <!-- C# -->
+    <string name="csharp_name">C#</string>
+    <string name="csharp_creator">Microsoft</string>
+    <string name="csharp_year_released">2000</string>
+    <string name="csharp_file_extension">.cs</string>
+    <string name="csharp_use_cases">Desktop Applications, Web Applications, Game Development</string>
+    <string name="csharp_description">C# adalah bahasa pemrograman berorientasi objek yang dikembangkan oleh Microsoft, banyak digunakan untuk pengembangan aplikasi desktop, web, dan game menggunakan platform .NET.</string>
+
+    <!-- Java -->
+    <string name="java_name">Java</string>
+    <string name="java_creator">James Gosling</string>
+    <string name="java_year_released">1995</string>
+    <string name="java_file_extension">.java</string>
+    <string name="java_use_cases">Enterprise Applications, Android Development, Web Development</string>
+    <string name="java_description">Java adalah bahasa pemrograman berorientasi objek yang populer, terkenal karena portabilitasnya, 'Write Once, Run Anywhere'. Banyak digunakan dalam pengembangan aplikasi enterprise dan Android.</string>
+
+    <!-- JavaScript -->
+    <string name="javascript_name">JavaScript</string>
+    <string name="javascript_creator">Brendan Eich</string>
+    <string name="javascript_year_released">1995</string>
+    <string name="javascript_file_extension">.js</string>
+    <string name="javascript_use_cases">Web Development, Front-End Development, Back-End Development</string>
+    <string name="javascript_description">JavaScript adalah bahasa pemrograman utama untuk pengembangan web, digunakan untuk membuat halaman web dinamis dan interaktif. Dapat digunakan di sisi klien (front-end) dan sisi server (back-end) dengan Node.js.</string>
+
+    <!-- Kotlin -->
+    <string name="kotlin_name">Kotlin</string>
+    <string name="kotlin_creator">JetBrains</string>
+    <string name="kotlin_year_released">2011</string>
+    <string name="kotlin_file_extension">.kt</string>
+    <string name="kotlin_use_cases">Android Development, Web Development, Server-Side Applications</string>
+    <string name="kotlin_description">Kotlin adalah bahasa pemrograman modern yang interoperable dengan Java, dan kini menjadi bahasa utama untuk pengembangan aplikasi Android. Kotlin menawarkan sintaks yang lebih ringkas dan fitur-fitur mutakhir.</string>
+
+    <!-- PHP -->
+    <string name="php_name">PHP</string>
+    <string name="php_creator">Rasmus Lerdorf</string>
+    <string name="php_year_released">1995</string>
+    <string name="php_file_extension">.php</string>
+    <string name="php_use_cases">Web Development, Server-Side Scripting</string>
+    <string name="php_description">PHP adalah bahasa pemrograman yang digunakan terutama untuk pengembangan web di sisi server. Banyak digunakan untuk membangun situs web dinamis dan aplikasi web, dan merupakan fondasi banyak sistem manajemen konten (CMS) seperti WordPress.</string>
+
+    <!-- Python -->
+    <string name="python_name">Python</string>
+    <string name="python_creator">Guido van Rossum</string>
+    <string name="python_year_released">1991</string>
+    <string name="python_file_extension">.py</string>
+    <string name="python_use_cases">Web Development, Data Analysis, Artificial Intelligence, Machine Learning</string>
+    <string name="python_description">Python adalah bahasa pemrograman yang mudah dipelajari dan digunakan, dengan sintaks yang jelas dan sederhana. Banyak digunakan dalam berbagai bidang seperti pengembangan web, analisis data, dan kecerdasan buatan.</string>
+
+    <!-- SQL -->
+    <string name="sql_name">SQL</string>
+    <string name="sql_creator">Donald D. Chamberlin dan Raymond F. Boyce</string>
+    <string name="sql_year_released">1974</string>
+    <string name="sql_file_extension">.sql</string>
+    <string name="sql_use_cases">Database Management, Data Querying, Data Manipulation</string>
+    <string name="sql_description">SQL (Structured Query Language) adalah bahasa yang digunakan untuk mengelola dan memanipulasi data dalam sistem manajemen basis data relasional. SQL memungkinkan pengguna untuk mengambil, menyisipkan, memperbarui, dan menghapus data dalam database.</string>
+
+    <!-- Swift -->
+    <string name="swift_name">Swift</string>
+    <string name="swift_creator">Apple</string>
+    <string name="swift_year_released">2014</string>
+    <string name="swift_file_extension">.swift</string>
+    <string name="swift_use_cases">iOS Development, macOS Development, Server-Side Applications</string>
+    <string name="swift_description">Swift adalah bahasa pemrograman yang cepat dan aman, dikembangkan oleh Apple untuk pengembangan aplikasi iOS, macOS, dan lainnya. Swift dirancang agar mudah dipelajari dan digunakan.</string>
 </resources>
