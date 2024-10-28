@@ -1,5 +1,8 @@
 <resources>
+
+    <!-- General -->
     <string name="app_name">ProyekUtsLabPemrogramanMobile</string>
+    <string name="top_app_bar">Programming Language App</string>
 
     <!-- C -->
     <string name="c_name">C</string>
