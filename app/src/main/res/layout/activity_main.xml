@@ -13,12 +13,15 @@
         android:id="@+id/topAppBar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:background="?attr/colorSecondary"
         app:liftOnScroll="false">
 
         <com.google.android.material.appbar.MaterialToolbar
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:title="@string/top_app_bar"
+            app:titleTextColor="?attr/colorOnSecondary"
+            app:titleTextAppearance="@style/TextAppearance.Material3.TitleLarge"
             app:titleCentered="true"/>
 
     </com.google.android.material.appbar.AppBarLayout>
@@ -28,7 +31,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="?attr/actionBarSize"
-        android:paddingBottom="30dp"
+        android:paddingBottom="20dp"
         android:clipToPadding="false"/>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

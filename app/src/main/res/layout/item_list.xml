@@ -4,9 +4,11 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_marginTop="30dp"
+    android:layout_marginTop="20dp"
     android:layout_marginHorizontal="20dp"
+    app:cardBackgroundColor="?attr/colorPrimary"
     app:cardElevation="4dp"
+    app:strokeWidth="0dp"
     app:cardCornerRadius="12dp">
 
     <LinearLayout
@@ -20,18 +22,22 @@
             android:layout_width="64dp"
             android:layout_height="64dp"
             android:layout_marginEnd="16dp"
+            android:layout_gravity="center_vertical"
             android:contentDescription="@string/c_name" />
 
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:layout_gravity="center_vertical"
             android:orientation="vertical">
 
             <TextView
                 android:id="@+id/textViewName"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:textColor="?attr/colorOnPrimary"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
@@ -39,6 +45,7 @@
                 android:id="@+id/textViewUseCases"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textColor="?attr/colorOnPrimary"
                 android:textSize="14sp" />
         </LinearLayout>
 

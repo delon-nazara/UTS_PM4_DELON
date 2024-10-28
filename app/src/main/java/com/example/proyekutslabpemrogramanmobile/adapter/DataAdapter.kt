@@ -18,15 +18,14 @@ class DataModelAdapter(private val dataList: List<DataModel>) : RecyclerView.Ada
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): DataModelViewHolder {
-        val itemView = LayoutInflater.from(parent.context)
-            .inflate(R.layout.item_list, parent, false)
+        val itemView = LayoutInflater.from(parent.context).inflate(R.layout.item_list, parent, false)
         return DataModelViewHolder(itemView)
     }
 
     override fun onBindViewHolder(holder: DataModelViewHolder, position: Int) {
         val currentItem = dataList[position]
         holder.imageViewLogo.setImageResource(currentItem.logoId)
-        holder.imageViewLogo.contentDescription = "Logo ${currentItem.name}"
+        holder.imageViewLogo.contentDescription = currentItem.name
         holder.textViewName.text = currentItem.name
         holder.textViewUseCases.text = currentItem.useCases
     }

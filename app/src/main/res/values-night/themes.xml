@@ -1,9 +1,11 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
 
     <style name="Base.Theme.ProyekUtsLabPemrogramanMobile" parent="Theme.Material3.DayNight.NoActionBar">
         <item name="backgroundColor">@color/darkColorBackground</item>
-        <item name="colorSurface">@color/darkColorSurface</item>
-        <item name="colorOnSurface">@color/darkColorOnSurface</item>
+        <item name="colorPrimary">@color/darkColorPrimary</item>
+        <item name="colorOnPrimary">@color/darkColorOnPrimary</item>
+        <item name="colorSecondary">@color/darkColorSecondary</item>
+        <item name="colorOnSecondary">@color/darkColorOnSecondary</item>
     </style>
 
 </resources>

@@ -7,12 +7,16 @@
 
     <!-- Light Theme -->
     <color name="lightColorBackground">#FFFFFFFF</color>
-    <color name="lightColorSurface">#FFCBDCEB</color>
-    <color name="lightColorOnSurface">#FF000000</color>
+    <color name="lightColorPrimary">#FFCBDCEB</color>
+    <color name="lightColorOnPrimary">#FF000000</color>
+    <color name="lightColorSecondary">#FF4A628A</color>
+    <color name="lightColorOnSecondary">#FFFFFFFF</color>
 
     <!-- Dark Theme -->
-    <color name="darkColorBackground">#FF133E87</color>
-    <color name="darkColorSurface">#FF608BC1</color>
-    <color name="darkColorOnSurface">#FFFFFFFF</color>
+    <color name="darkColorBackground">#FF4F6589</color>
+    <color name="darkColorPrimary">#FF395077</color>
+    <color name="darkColorOnPrimary">#FFFFFFFF</color>
+    <color name="darkColorSecondary">#FF142A4E</color>
+    <color name="darkColorOnSecondary">#FFFFFFFF</color>
 
 </resources>
