@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <!-- General -->
     <color name="white">#FFFFFFFF</color>
     <color name="black">#FF000000</color>
+
+    <!-- Light Theme -->
+    <color name="lightColorBackground">#FFFFFFFF</color>
+    <color name="lightColorSurface">#FFCBDCEB</color>
+    <color name="lightColorOnSurface">#FF000000</color>
+
+    <!-- Dark Theme -->
+    <color name="darkColorBackground">#FF133E87</color>
+    <color name="darkColorSurface">#FF608BC1</color>
+    <color name="darkColorOnSurface">#FFFFFFFF</color>
+
 </resources>
