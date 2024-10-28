@@ -5,7 +5,7 @@
     <string name="top_app_bar">Programming Language App</string>
 
     <!-- C -->
-    <string name="c_name">C</string>
+    <string name="c_name">C Language</string>
     <string name="c_creator">Dennis Ritchie</string>
     <string name="c_year_released">1972</string>
     <string name="c_file_extension">.c</string>
@@ -14,7 +14,7 @@
     <string name="c_documentation_link">https://en.cppreference.com/w/c/language</string>
 
     <!-- C++ -->
-    <string name="cpp_name">C++</string>
+    <string name="cpp_name">C++ Language</string>
     <string name="cpp_creator">Bjarne Stroustrup</string>
     <string name="cpp_year_released">1985</string>
     <string name="cpp_file_extension">.cpp</string>
@@ -23,7 +23,7 @@
     <string name="cpp_documentation_link">https://cplusplus.com/doc</string>
 
     <!-- C# -->
-    <string name="csharp_name">C#</string>
+    <string name="csharp_name">C# Language</string>
     <string name="csharp_creator">Microsoft</string>
     <string name="csharp_year_released">2000</string>
     <string name="csharp_file_extension">.cs</string>
@@ -32,7 +32,7 @@
     <string name="csharp_documentation_link">https://learn.microsoft.com/en-us/dotnet/csharp</string>
 
     <!-- Java -->
-    <string name="java_name">Java</string>
+    <string name="java_name">Java Language</string>
     <string name="java_creator">James Gosling</string>
     <string name="java_year_released">1995</string>
     <string name="java_file_extension">.java</string>
@@ -41,7 +41,7 @@
     <string name="java_documentation_link">https://docs.oracle.com/en/java</string>
 
     <!-- JavaScript -->
-    <string name="javascript_name">JavaScript</string>
+    <string name="javascript_name">JavaScript Language</string>
     <string name="javascript_creator">Brendan Eich</string>
     <string name="javascript_year_released">1995</string>
     <string name="javascript_file_extension">.js</string>
@@ -50,7 +50,7 @@
     <string name="javascript_documentation_link">https://developer.mozilla.org/en-US/docs/Web/JavaScript</string>
 
     <!-- Kotlin -->
-    <string name="kotlin_name">Kotlin</string>
+    <string name="kotlin_name">Kotlin Language</string>
     <string name="kotlin_creator">JetBrains</string>
     <string name="kotlin_year_released">2011</string>
     <string name="kotlin_file_extension">.kt</string>
@@ -59,7 +59,7 @@
     <string name="kotlin_documentation_link">https://kotlinlang.org/docs/home.html</string>
 
     <!-- PHP -->
-    <string name="php_name">PHP</string>
+    <string name="php_name">PHP Language</string>
     <string name="php_creator">Rasmus Lerdorf</string>
     <string name="php_year_released">1995</string>
     <string name="php_file_extension">.php</string>
@@ -68,7 +68,7 @@
     <string name="php_documentation_link">https://www.php.net/docs.php</string>
 
     <!-- Python -->
-    <string name="python_name">Python</string>
+    <string name="python_name">Python Language</string>
     <string name="python_creator">Guido van Rossum</string>
     <string name="python_year_released">1991</string>
     <string name="python_file_extension">.py</string>
@@ -77,7 +77,7 @@
     <string name="python_documentation_link">https://docs.python.org/3</string>
 
     <!-- SQL -->
-    <string name="sql_name">SQL</string>
+    <string name="sql_name">Structured Query Language</string>
     <string name="sql_creator">Donald D. Chamberlin dan Raymond F. Boyce</string>
     <string name="sql_year_released">1974</string>
     <string name="sql_file_extension">.sql</string>
@@ -86,7 +86,7 @@
     <string name="sql_documentation_link">https://docs.data.world/documentation/sql/concepts/basic/intro.html</string>
 
     <!-- Swift -->
-    <string name="swift_name">Swift</string>
+    <string name="swift_name">Swift Language</string>
     <string name="swift_creator">Apple</string>
     <string name="swift_year_released">2014</string>
     <string name="swift_file_extension">.swift</string>

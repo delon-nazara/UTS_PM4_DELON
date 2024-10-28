@@ -1,7 +1,11 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
+<resources>
+
     <style name="Base.Theme.ProyekUtsLabPemrogramanMobile" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="backgroundColor">@color/darkColorBackground</item>
+        <item name="colorPrimary">@color/darkColorPrimary</item>
+        <item name="colorOnPrimary">@color/darkColorOnPrimary</item>
+        <item name="colorSecondary">@color/darkColorSecondary</item>
+        <item name="colorOnSecondary">@color/darkColorOnSecondary</item>
     </style>
+
 </resources>
