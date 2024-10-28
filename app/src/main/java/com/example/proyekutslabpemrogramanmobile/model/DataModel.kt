@@ -9,5 +9,6 @@ data class DataModel(
     val yearReleased: String,
     val fileExtension: String,
     val useCases: String,
-    val description: String
+    val description: String,
+    val documentationLink: String
 )
