@@ -15,7 +15,8 @@ Aplikasi ini dibuat sebagai proyek UTS (Ujian Tengah Semester) dari mata kuliah 
 Aplikasi ini dibuat dengan menggunakan bahasa pemrograman Kotlin dan Android View Framework untuk membangun tampilan antarmukanya. Pada rancangan awal, aplikasi ini ditujukan untuk smartphone dengan sistem operasi berbasis android. Terakhir, Android Studio digunakan sebagai IDE untuk proses penulisan, pengembangan, dan pengujian kode program.
 
 ## Rancangan Design (Prototype)
-Link Rancangan Design (Figma): https://www.figma.com/design/y994t2BzLz55na1iL8iIc7/Programming-Language-App?node-id=7-3&t=FRTJ9FAXeeRhY8aL-1
+Link Rancangan Design (Figma):  
+https://www.figma.com/design/y994t2BzLz55na1iL8iIc7/Programming-Language-App?node-id=7-3&t=FRTJ9FAXeeRhY8aL-1
 <br>
 
 ![Halaman Daftar Bahasa Pemrograman](https://github.com/user-attachments/assets/9a058d43-bec5-41f4-aa0c-4e6907f9e553)
@@ -35,4 +36,5 @@ Mode Gelap (Dark Mode)
 ![Screenshot_20241029_175902 (Medium)](https://github.com/user-attachments/assets/656b3efd-1716-4bc9-a0bd-6758af4a7050)
 
 ## Credit Asset
-Aplikasi ini menggunakan asset logo bahasa pemrograman yang semuanya didownload dari sumber website: https://www.cleanpng.com
+Aplikasi ini menggunakan asset logo bahasa pemrograman yang semuanya didownload dari sumber website:  
+https://www.cleanpng.com
