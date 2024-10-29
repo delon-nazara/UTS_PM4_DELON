@@ -27,8 +27,8 @@ Aplikasi ini dibuat dengan menggunakan bahasa pemrograman Kotlin dan Android Vie
 Mode Terang (Light Mode)
 <br>
 
-![Screenshot_20241029_180304 (Medium)](https://github.com/user-attachments/assets/f86dc423-5f42-4741-9b73-1b58106fb3a6)
 ![Screenshot_20241029_180258 (Medium)](https://github.com/user-attachments/assets/e70f4e6a-8829-494d-9162-ca86d321cdfe)
+![Screenshot_20241029_180304 (Medium)](https://github.com/user-attachments/assets/f86dc423-5f42-4741-9b73-1b58106fb3a6)
 
 Mode Gelap (Dark Mode)
 <br>
