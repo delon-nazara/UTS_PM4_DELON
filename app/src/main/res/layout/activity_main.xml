@@ -7,7 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="?attr/backgroundColor"
-    tools:context=".MainActivity">
+    tools:context=".activity.MainActivity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/topAppBar"
@@ -19,7 +19,7 @@
         <com.google.android.material.appbar.MaterialToolbar
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            app:title="@string/top_app_bar"
+            app:title="@string/top_app_bar_display"
             app:titleTextColor="?attr/colorOnSecondary"
             app:titleTextAppearance="@style/TextAppearance.Material3.TitleLarge"
             app:titleCentered="true"/>

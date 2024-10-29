@@ -6,6 +6,7 @@
         <item name="colorOnPrimary">@color/lightColorOnPrimary</item>
         <item name="colorSecondary">@color/lightColorSecondary</item>
         <item name="colorOnSecondary">@color/lightColorOnSecondary</item>
+        <item name="colorOnTertiary">@color/lightColorOnTertiary</item>
     </style>
 
     <style name="Theme.ProyekUtsLabPemrogramanMobile" parent="Base.Theme.ProyekUtsLabPemrogramanMobile" />

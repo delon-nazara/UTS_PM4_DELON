@@ -6,6 +6,7 @@
         <item name="colorOnPrimary">@color/darkColorOnPrimary</item>
         <item name="colorSecondary">@color/darkColorSecondary</item>
         <item name="colorOnSecondary">@color/darkColorOnSecondary</item>
+        <item name="colorOnTertiary">@color/darkColorOnTertiary</item>
     </style>
 
 </resources>
