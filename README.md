@@ -19,8 +19,8 @@ Aplikasi ini dibuat sebagai proyek UTS (Ujian Tengah Semester) dari mata kuliah 
 Aplikasi ini dibuat dengan menggunakan bahasa pemrograman Kotlin dan Android View Framework untuk membangun tampilan antarmukanya. Pada rancangan awal, aplikasi ini ditujukan untuk smartphone dengan sistem operasi berbasis android. Terakhir, Android Studio digunakan sebagai IDE untuk proses penulisan, pengembangan, dan pengujian kode program.
 
 ## Rancangan Design (Prototype)
-![Screenshot 2024-10-29 175136](https://github.com/user-attachments/assets/daf2e911-fd8d-400a-b100-b62cf10e4d41)
-![Screenshot 2024-10-29 175147](https://github.com/user-attachments/assets/3ff44450-45a0-4970-a9d3-0cf05deda73a)
+![Halaman Daftar Bahasa Pemrograman](https://github.com/user-attachments/assets/9a058d43-bec5-41f4-aa0c-4e6907f9e553) <t>
+![Halaman Detail Bahasa Pemrograman](https://github.com/user-attachments/assets/66e1ac6a-f74b-4950-8f95-55b1433dac35)
 
 ## Tampilan Aplikasi (UI)
 
