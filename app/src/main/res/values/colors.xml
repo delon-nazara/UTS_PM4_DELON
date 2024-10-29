@@ -4,6 +4,9 @@
     <!-- General -->
     <color name="white">#FFFFFFFF</color>
     <color name="black">#FF000000</color>
+    <color name="red">#FFFF0000</color>
+    <color name="green">#FF00FF00</color>
+    <color name="blue">#FF0000FF</color>
 
     <!-- Light Theme -->
     <color name="lightColorBackground">#FFFFFFFF</color>
@@ -11,6 +14,7 @@
     <color name="lightColorOnPrimary">#FF000000</color>
     <color name="lightColorSecondary">#FF4A628A</color>
     <color name="lightColorOnSecondary">#FFFFFFFF</color>
+    <color name="lightColorOnTertiary">#FF0000FF</color>
 
     <!-- Dark Theme -->
     <color name="darkColorBackground">#FF4F6589</color>
@@ -18,5 +22,6 @@
     <color name="darkColorOnPrimary">#FFFFFFFF</color>
     <color name="darkColorSecondary">#FF142A4E</color>
     <color name="darkColorOnSecondary">#FFFFFFFF</color>
+    <color name="darkColorOnTertiary">#FFADADFF</color>
 
 </resources>

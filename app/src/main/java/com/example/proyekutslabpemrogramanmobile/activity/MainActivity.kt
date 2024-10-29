@@ -1,6 +1,5 @@
-package com.example.proyekutslabpemrogramanmobile
+package com.example.proyekutslabpemrogramanmobile.activity
 
-import android.content.Context
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
@@ -8,6 +7,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.example.proyekutslabpemrogramanmobile.R
 import com.example.proyekutslabpemrogramanmobile.adapter.DataModelAdapter
 import com.example.proyekutslabpemrogramanmobile.data.DataList
 

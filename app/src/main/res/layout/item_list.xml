@@ -6,6 +6,8 @@
     android:layout_height="wrap_content"
     android:layout_marginTop="20dp"
     android:layout_marginHorizontal="20dp"
+    android:clickable="true"
+    android:focusable="true"
     app:cardBackgroundColor="?attr/colorPrimary"
     app:cardElevation="4dp"
     app:strokeWidth="0dp"
@@ -23,7 +25,7 @@
             android:layout_height="64dp"
             android:layout_marginEnd="16dp"
             android:layout_gravity="center_vertical"
-            android:contentDescription="@string/c_name" />
+            android:contentDescription="@string/temporary_content_description"/>
 
         <LinearLayout
             android:layout_width="0dp"
@@ -39,14 +41,14 @@
                 android:layout_marginBottom="4dp"
                 android:textColor="?attr/colorOnPrimary"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"/>
 
             <TextView
                 android:id="@+id/textViewUseCases"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="?attr/colorOnPrimary"
-                android:textSize="14sp" />
+                android:textSize="14sp"/>
         </LinearLayout>
 
     </LinearLayout>

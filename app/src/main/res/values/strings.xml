@@ -1,8 +1,17 @@
 <resources>
 
     <!-- General -->
-    <string name="app_name">ProyekUtsLabPemrogramanMobile</string>
-    <string name="top_app_bar">Programming Language App</string>
+    <string name="app_name">ProLang</string>
+    <string name="top_app_bar_display">Programming Language App</string>
+    <string name="top_app_bar_detail">Detail Language</string>
+    <string name="creator_title">Creator</string>
+    <string name="year_released_title">Year Released</string>
+    <string name="file_extension_title">File Extension</string>
+    <string name="use_cases_title">Use Cases</string>
+    <string name="description_title">Description</string>
+    <string name="documentation_title">Documentation</string>
+    <string name="temporary_content_description">Logo of Programming Language</string>
+    <string name="choose_browser">Open with web browser:</string>
 
     <!-- C -->
     <string name="c_name">C Language</string>
